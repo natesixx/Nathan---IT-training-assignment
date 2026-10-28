@@ -1,2 +1,2 @@
-# Nathan---IT-training-assignment
+# index.html
 My full stack industrial training website
